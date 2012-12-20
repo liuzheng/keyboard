@@ -26,3 +26,17 @@
 ### shift功能
 
 字母键shift依照原标准不做改动，其他键视键位分析后再定义
+
+### 键值列表
+
+字母键(24)：
+
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+
+数字键(10)：
+
+1 2 3 4 5 6 7 8 9 0
+
+符号键(30)：
+
+~ ` ! @ # $ % ^ & * ( ) _ - + = { [ } ] " ' : ; ? / > . < ,
